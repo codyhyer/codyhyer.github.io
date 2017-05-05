@@ -280,7 +280,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 
 #featuredBYU:hover{
     background-image:url(byu.jpg);
-    background-position:center;
+    background-position:right;
     background-repeat:no-repeat;
 }
 
@@ -315,7 +315,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 
 #featuredBBCC:hover{
     background-image:url(bbcc.jpg);
-    background-position:center;
+    background-position:right;
     background-repeat:no-repeat;
 }
 
@@ -350,7 +350,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 
 #featuredJAVA:hover{
     background-image:url(java.jpg);
-    background-position:center;
+    background-position:right;
     background-repeat:no-repeat;
 }
 
@@ -385,7 +385,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 
 #featuredOFFICE:hover{
     background-image:url(office.jpg);
-    background-position:center;
+    background-position:right;
     background-repeat:no-repeat;
 }
 
@@ -420,7 +420,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 
 #featuredPERU:hover{
     background-image:url(peru.jpg);
-    background-position:center;
+    background-position:right;
     background-repeat:no-repeat;
 }
 
